@@ -1,3 +1,3 @@
 # Семчишин Олена
 
-[Резюме](https://semchyshynolena.github.io/site/ "")
+[Резюме](https://semchyshynolena.github.io/site/)
